@@ -1,0 +1,16 @@
+body {
+    
+    background-image:url(../images/truck.jpg); 
+    background-size:1350px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    left: 20%;
+    
+}   
+
+
+
+.centrado{
+    margin-left: auto;
+    margin-right: auto;
+  }
